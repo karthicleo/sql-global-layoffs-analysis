@@ -1,6 +1,5 @@
 # sql-global-layoffs-analysis
 End-to-End SQL Data Cleaning &amp; Exploratory Data Analysis on a Global Layoffs Dataset using MySQL.
-# Global Layoffs Data Cleaning & Exploratory Data Analysis using SQL
 
 ## Project Overview
 
